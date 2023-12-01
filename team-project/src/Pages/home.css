@@ -1,0 +1,59 @@
+.home-bg{
+    background-image: url("https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/if_w_gt_1920,w_1920/em_in_diwali_phase_three_commercial_fw23_launch_hp_d_4bba4a1556.jpg");
+    width: 100%;
+    height: 80vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-t-1{
+    font-family: var(--gl-body-font-set-family-functional-11),var(--gl-font-family-fallback);
+    font-size: var(--gl-body-font-set-size-functional-11);
+    font-style: var(--gl-body-font-set-style-functional-11);
+    font-weight: var(--gl-body-font-set-weight-functional-11);
+    letter-spacing: var(--gl-body-font-set-letterspacing-functional-11);
+    line-height: var(--gl-body-font-set-lineheight-functional-11);
+    -webkit-text-decoration: var(--gl-body-font-set-decoration-functional-11);
+    text-decoration: var(--gl-body-font-set-decoration-functional-11);
+    text-transform: var(--gl-body-font-set-case-functional-11);
+    position: absolute;
+    left: 20px;
+    top: 100px;
+}
+.btn-main{
+    padding-top: 170px;
+    padding-left: 20px;
+}
+.bg-btn{
+    background-color: #000000;
+    color: #FFFFFF;
+    width: 153.33px;
+    height: 38px;
+    padding: 5px 10px;
+    font-weight: 700;
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+}
+.bg-btn:hover{
+    color: #767677;
+    transition: all 0.3s ease-in-out;
+}
+.bg-btn-2:hover{
+    color: #767677;
+    transition: all 0.3s ease-in-out;
+}
+.bg-btn-2{
+    background-color: #000000;
+    color: #FFFFFF;
+    width: 175.33px;
+    text-align: center;
+    height: 38px;
+    padding: 5px 10px;
+    font-weight: 700;
+    display: block;
+    margin-top: 10px;
+}
+.icon{
+    font-size: 20px;
+}
